@@ -3,7 +3,7 @@
 - Enhanced website accessibility, achieving a 100% score on the Web Content Accessibility Guidelines (WCAG) 2.1 AA standard.
 - Transformed a web app into a PWA, resulting in a 20% increase in user retention and a 15% increase in daily active users.
 - Implemented a comprehensive suite of automated front-end tests, reducing production bug reports by 50% and streamlining the QA process.
-- Integrated a responsive design, enhancing the mobile user experience and resulting in a 30% increase in mobile traffic and a 20% improvement in mobile conversions.
+- Enhanced the web app with responsive design, improving the mobile UX and resulting in a 30% increase in mobile traffic and a 20% improvement in mobile conversions.
 - Collaborated with the back-end team to optimize API calls and data handling, reducing the average response time by 40% and improving overall app performance.
 - Implemented advanced CSS animations and transitions, creating a more engaging user experience and contributing to a 10% increase in session duration.
 
